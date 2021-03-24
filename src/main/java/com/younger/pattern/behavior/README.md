@@ -1,1 +1,12 @@
 # 行为型模式
+- 职责链模式（Chain Of Responsibility）
+- 命令模式（Command）
+- 解释器模式（Interpreter）
+- 迭代器模式（Iterator）
+- 中介模式（Mediator）
+- 备忘录模式（Memento）
+- 观察者模式（Observer）
+- 状态模式（State）
+- 策略模式（Strategy）
+- 模版方法模式（Template Method）
+- 访问者模式（Visitor）
