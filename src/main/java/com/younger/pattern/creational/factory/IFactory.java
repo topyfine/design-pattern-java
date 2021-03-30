@@ -1,4 +1,4 @@
-package com.younger.pattern.creation.factory;
+package com.younger.pattern.creational.factory;
 
 /**
  * @author Younger

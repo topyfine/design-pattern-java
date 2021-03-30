@@ -1,4 +1,4 @@
-package com.younger.pattern.creation.prototype;
+package com.younger.pattern.creational.prototype;
 
 import java.io.*;
 

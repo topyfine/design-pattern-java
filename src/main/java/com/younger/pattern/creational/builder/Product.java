@@ -1,14 +1,11 @@
-package com.younger.pattern.creation.factory;
+package com.younger.pattern.creational.builder;
 
 /**
  * @author Younger
  */
 public class Product {
-    private String name;
 
-    public Product(String name) {
-        this.name = name;
-    }
+    private String name;
 
     public String getName() {
         return name;

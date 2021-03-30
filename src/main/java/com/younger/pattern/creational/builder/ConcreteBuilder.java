@@ -1,4 +1,4 @@
-package com.younger.pattern.creation.builder;
+package com.younger.pattern.creational.builder;
 
 /**
  * @author Younger

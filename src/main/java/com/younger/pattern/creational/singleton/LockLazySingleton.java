@@ -1,4 +1,4 @@
-package com.younger.pattern.creation.singleton;
+package com.younger.pattern.creational.singleton;
 
 /**
  * @author Younger
